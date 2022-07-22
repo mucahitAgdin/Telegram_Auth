@@ -20,7 +20,7 @@ def get_deposit_history(user_txid,  user_name):
             message_txt = "bu txid kullanılmış ya da eksik veya hatalı girdiniz tekrar deneyin"
         return message_txt
     for x in user_list:
-        print(user_list[x])
+        
         if(user_list[x]["user_name"]!=user_name):
             return "Bu txid ile kayıtlı başka bir kullanıcı var"
         
