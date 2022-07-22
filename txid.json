@@ -26,5 +26,18 @@
         "confirmTimes": "1/15",
         "unlockConfirm": 0,
         "walletType": 0
+    }, {
+        "amount": "10.4",
+        "coin": "USDT",
+        "network": "BSC",
+        "status": 1,
+        "address": "0xc6621ccb7e22a836d35cb3aa772cec7d6dc1ef16",
+        "addressTag": "",
+        "txId": "Internal transfer 108208601996",
+        "insertTime": 1653925802001,
+        "transferType": 1,
+        "confirmTimes": "1/15",
+        "unlockConfirm": 0,
+        "walletType": 0
     }
 ]
